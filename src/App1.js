@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function App1() {
   return (
     <div className="App">
       <header className="App-header">
@@ -15,11 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React HiHi
         </a>
       </header>
     </div>
   );
 }
 
-export default App;
+export default App1;
